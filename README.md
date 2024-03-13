@@ -20,7 +20,7 @@ To get started with our datasets, simply clone this repository to your local mac
 ## Read-to-dock compounds in PDBQT format
 
 ## Chemical Space
-Download Chemical Space files here: [Download]([https://github.com](https://drive.google.com/drive/folders/1jfC17-iwz35xuZdleQ6Qpr32VVAFCie-?usp=sharing))
+Download Chemical Space files here: [Download]([https://github.com](https://drive.google.com/drive/folders/1jfC17-iwz35xuZdleQ6Qpr32VVAFCie-?usp=sharing)
 
 ## License
 All datasets in this repository are made available under a license that permits their free use for research purposes. Please refer to the LICENSE file for more details.
