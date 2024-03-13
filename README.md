@@ -8,13 +8,16 @@ Each dataset within this repository has been carefully curated and pre-processed
 High-Quality Data: Our datasets are compiled from reputable sources, ensuring reliability and relevance for various research purposes.
 Pre-Processed for Immediate Use: Save time with our ready-to-use datasets, pre-processed to meet the requirements of leading virtual screening software.
 Diverse Compounds: Explore a wide array of chemical entities, from small molecules to biologics, suitable for diverse targets and therapeutic areas.
-Documentation Included: Each dataset comes with comprehensive documentation, detailing its source, preparation steps, and potential use cases.
 
 ## How to Use
 To get started with our datasets, simply clone this repository to your local machine or download the specific dataset of interest. Please refer to the individual README files within each dataset directory for detailed instructions on usage and integration into your screening pipelines.
 
-## Contribution
-We welcome contributions from the scientific community! If you have a dataset you'd like to share or suggestions for improving our existing collections, please feel free to open an issue or submit a pull request.
+# Download links
+## Conformational database for pharmacophore or shape-based screening
+
+## Database with energy minimized compounds
+
+## Read-to-dock compounds in PDBQT format
 
 ## License
 All datasets in this repository are made available under a license that permits their free use for research purposes. Please refer to the LICENSE file for more details.
