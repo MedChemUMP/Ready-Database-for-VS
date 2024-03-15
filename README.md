@@ -14,10 +14,13 @@ To get started with our datasets, simply clone this repository to your local mac
 
 # Download links
 ## Conformational database for pharmacophore or shape-based screening
+Download OEB.GZ files here: [Download](https://drive.google.com/drive/folders/1f41gEG4QOTUeCLkUaEnjOO_p7rAPwqfX?usp=drive_link)
 
 ## Database with energy minimized compounds
+Download SDF or MDB files here: [Download](https://drive.google.com/drive/folders/1GwLZ9Rw-BhdSXlNdE2y3ez2mY6_OE2Uu?usp=drive_link)
 
 ## Read-to-dock compounds in PDBQT format
+Download ZIP files here: [Download](https://drive.google.com/drive/folders/1MScHZ3aMXo1-9BHQagZ7R8QPzSHzTk2l?usp=drive_link)
 
 ## Chemical Space
 Download Chemical Space files here: [Download](https://drive.google.com/drive/folders/1jfC17-iwz35xuZdleQ6Qpr32VVAFCie-?usp=sharing)
