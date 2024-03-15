@@ -22,6 +22,9 @@ Download SDF or MDB files here: [Download](https://drive.google.com/drive/folder
 ## Read-to-dock compounds in PDBQT format
 Download ZIP files here: [Download](https://drive.google.com/drive/folders/1MScHZ3aMXo1-9BHQagZ7R8QPzSHzTk2l?usp=drive_link)
 
+## SMILES CSV database and Physical properties distribution of screening database
+Download CSV files here: [Download](https://drive.google.com/drive/folders/1lMR73oo0I2deo8oVQtOqPrFdUmfH7kgW?usp=drive_link)
+
 ## Chemical Space
 Download Chemical Space files here: [Download](https://drive.google.com/drive/folders/1jfC17-iwz35xuZdleQ6Qpr32VVAFCie-?usp=sharing)
 
